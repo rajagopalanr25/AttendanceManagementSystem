@@ -1,0 +1,22 @@
+{
+  "name": "student-attendance-management-system",
+  "version": "1.0.0",
+  "description": "Production Full-Stack Student Attendance Management System",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "build:client": "cd client && npm run build",
+    "test:api": "node test_e2e.js"
+  },
+  "keywords": [
+    "attendance",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb",
+    "tailwind"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "ISC"
+}
