@@ -17,3 +17,4 @@ router.put('/:id', authorize('admin'), updateDepartment);
 router.delete('/:id', authorize('admin'), deleteDepartment);
 
 module.exports = router;
+

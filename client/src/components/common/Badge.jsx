@@ -35,3 +35,4 @@ export const Badge = ({ children, variant = 'default', size = 'md', className = 
     </span>
   );
 };
+

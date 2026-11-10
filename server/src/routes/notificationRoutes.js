@@ -17,3 +17,4 @@ router.put('/mark-all-read', markAllAsRead);
 router.post('/announce', authorize('admin'), createAnnouncement);
 
 module.exports = router;
+

@@ -170,3 +170,4 @@ module.exports = {
   updateClass,
   deleteClass
 };
+

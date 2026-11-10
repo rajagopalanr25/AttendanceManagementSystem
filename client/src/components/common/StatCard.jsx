@@ -40,3 +40,4 @@ export const StatCard = ({ title, value, subtitle, icon: Icon, color = 'blue', t
     </div>
   );
 };
+

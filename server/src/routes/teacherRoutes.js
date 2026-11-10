@@ -23,3 +23,4 @@ router.put('/:id/assign', authorize('admin'), assignTeacherSubjectsClasses);
 router.delete('/:id', authorize('admin'), deleteTeacher);
 
 module.exports = router;
+

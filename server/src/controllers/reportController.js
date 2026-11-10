@@ -264,3 +264,4 @@ const getAttendanceReports = async (req, res, next) => {
 };
 
 module.exports = { getAttendanceReports };
+

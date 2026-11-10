@@ -23,3 +23,4 @@ router.get('/calendar', getAttendanceCalendar);
 router.get('/audit-logs', authorize('admin'), getAuditLogs);
 
 module.exports = router;
+

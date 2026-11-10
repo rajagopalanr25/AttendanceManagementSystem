@@ -9,3 +9,4 @@ router.use(protect);
 router.get('/', authorize('admin', 'teacher'), getAttendanceReports);
 
 module.exports = router;
+

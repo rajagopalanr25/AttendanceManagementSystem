@@ -114,3 +114,4 @@ module.exports = {
   calculateAttendance,
   logAudit
 };
+

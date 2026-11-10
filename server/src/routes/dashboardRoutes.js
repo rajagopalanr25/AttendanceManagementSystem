@@ -15,3 +15,4 @@ router.get('/teacher', authorize('teacher'), getTeacherDashboard);
 router.get('/student', authorize('student'), getStudentDashboard);
 
 module.exports = router;
+

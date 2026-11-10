@@ -17,3 +17,4 @@ export const LoadingSkeleton = ({ rows = 5 }) => {
     </div>
   );
 };
+

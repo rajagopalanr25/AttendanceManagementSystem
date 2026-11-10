@@ -196,3 +196,4 @@ export const Navbar = ({ onToggleSidebar, onChangePasswordClick }) => {
     </header>
   );
 };
+

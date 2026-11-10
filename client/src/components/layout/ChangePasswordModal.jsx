@@ -105,3 +105,4 @@ export const ChangePasswordModal = ({ isOpen, onClose }) => {
     </Modal>
   );
 };
+

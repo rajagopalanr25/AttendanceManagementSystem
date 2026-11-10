@@ -104,3 +104,4 @@ module.exports = {
   updateDepartment,
   deleteDepartment
 };
+

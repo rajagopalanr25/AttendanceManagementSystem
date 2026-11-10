@@ -48,3 +48,4 @@ const updateSettings = async (req, res, next) => {
 };
 
 module.exports = { getSettings, updateSettings };
+

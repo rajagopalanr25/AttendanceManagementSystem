@@ -216,3 +216,4 @@ export const StudentReportPage = () => {
     </div>
   );
 };
+

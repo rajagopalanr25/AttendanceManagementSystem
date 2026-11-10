@@ -94,3 +94,4 @@ export const exportToPDF = ({
 
   doc.save(filename.endsWith('.pdf') ? filename : `${filename}.pdf`);
 };
+

@@ -26,3 +26,4 @@ router.post('/reset-password', resetPasswordValidator, validate, resetPassword);
 router.put('/change-password', protect, changePasswordValidator, validate, changePassword);
 
 module.exports = router;
+
